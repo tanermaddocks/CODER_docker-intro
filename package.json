@@ -1,0 +1,23 @@
+{
+  "name": "docker-intro_w1l2",
+  "version": "1.0.0",
+  "description": "Docker is a platform that enables developers to build, share, and run applications in containers. Containers are lightweight, portable, and consistent environments that package an application and its dependencies together.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanermaddocks/docker-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanermaddocks/docker-intro/issues"
+  },
+  "homepage": "https://github.com/tanermaddocks/docker-intro#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
