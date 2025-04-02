@@ -13,3 +13,10 @@ Docker is a platform that enables developers to build, share, and run applicatio
 - **Container**: A runtime instance of a Docker image.
 - **Dockerfile**: A script that defines how to build a Docker image.
 - **Docker Hub**: A repository for sharing Docker images.
+
+## Docker Commands
+- **View active containers**: docker ps
+- **View all containers**: docker ps -a
+- **View container logs**: docker logs <container_id>
+- **Stop the docker**: docker stop <container_name>
+- **Remove the container**: docker remove <container_id>
